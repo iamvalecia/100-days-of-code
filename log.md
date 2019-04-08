@@ -5,7 +5,7 @@
 
 **Today's Progress**: I finished my HTML-me-something assignment. It has CSS.
 
-**Thoughts** I'm still getting the hang of Git and Github and the terminal, as well. I feel better about than I did a year ago when I started my Github account. 
+**Thoughts** I'm still getting the hang of Git and Github and the terminal, as well. I meant to have four commits instead of five.  I feel better about than I did a year ago when I started my Github account. 
 
 **Link(s) to work**
 1. [html-me-something](https://github.com/iamvalecia/html-me-something/blob/master/index.html)
