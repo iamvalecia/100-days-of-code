@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log
 
 
+### Day 3: April 8, 2019 Monday
+
+**Today's Progress**: Completed a Flask tutorial and started to work with conda. Both are needed to complete another assignment, web-caesar. This assignment is based off some code from the ceasar encryption I wrote a couple of weeks ago. Most of my conda commands can only be completed in Anaconda Prompt which was still trial and error to get started. Some of my classmates can work in GitBash.
+
+**Thoughts** Getting more comfortable with my limited knowledge of git commands. But conda is a whole new ball game.
+
+**Link(s) to work**
+1. [Hello Flask](https://education.launchcode.org/web-fundamentals/tutorials/hello-flask/)(instructions)
+2. [Web Caesar](https://education.launchcode.org/web-fundamentals/assignments/web-caesar/)(instructions)
+
 ### Day 2: April 7, 2019 Sunday
 
 **Today's Progress**: I finished my HTML-me-something assignment. It has CSS.
