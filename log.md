@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log
 
 
+### Day 4: April 9, 2019 Tuesday
+
+**Today's Progress**: I got miniconda set up like the coursework intended. It works fine at the moment. I also completed Web Caesar assignment.
+
+**Thoughts** Why do things that work one day fail the next?
+
+**Link(s) to work**
+1. [Web Caesar](https://github.com/iamvalecia/web-caesar)
+
 ### Day 3: April 8, 2019 Monday
 
 **Today's Progress**: Completed a Flask tutorial and started to work with conda. Both are needed to complete another assignment, web-caesar. This assignment is based off some code from the ceasar encryption I wrote a couple of weeks ago. Most of my conda commands can only be completed in Anaconda Prompt which was still trial and error to get started. Some of my classmates can work in GitBash.
