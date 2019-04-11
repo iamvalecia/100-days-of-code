@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log
 
 
+### Day 5: April 10, 2019 Wednesday
+
+**Today's Progress**: I started a YouTube tutorial for creating a webpage. For my class, I am going back to the beginning of Unit 2(three weeks in) with the readings, videos and homework assignments. I fell behind and did a lot of spot reading. So I want some depth this time. In all I may have did 1-1.5 hours outside of class. 
+
+**Thoughts** I'm not expecting the YouTube playlist to change my life with HTML, CSS or even JS. It's been in my saved playlists for a while so with all the coding for class I've been doing I want to jump back into coding for me. I was doing JavaScript before the course. Class has been Python with stint of HTML and CSS.
+
+**Link(s) to work**
+1.
+
 ### Day 4: April 9, 2019 Tuesday
 
 **Today's Progress**: I got miniconda set up like the coursework intended. It works fine at the moment. I also completed Web Caesar assignment.
