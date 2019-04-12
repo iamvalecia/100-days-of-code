@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 
-### Day 4: April 9, 2019 Tuesday
+### Day 6: April 11, 2019 Thurday
 
 **Today's Progress**: I learned a lot of git commands that I haven't had to use in my classwork yet. Installed live server for Visual Studio Code, but it wasn't very live.
 
