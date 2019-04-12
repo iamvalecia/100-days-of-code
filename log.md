@@ -1,6 +1,12 @@
 # 100 Days Of Code - Log
 
 
+### Day 4: April 9, 2019 Tuesday
+
+**Today's Progress**: I learned a lot of git commands that I haven't had to use in my classwork yet. Installed live server for Visual Studio Code, but it wasn't very live.
+
+**Thoughts** These commands make me want to find another's repository so that I can practice...I believe I can do more towards my goal than I'm currently doing.
+
 ### Day 5: April 10, 2019 Wednesday
 
 **Today's Progress**: I started a YouTube tutorial for creating a webpage. For my class, I am going back to the beginning of Unit 2(three weeks in) with the readings, videos and homework assignments. I fell behind and did a lot of spot reading. So I want some depth this time. In all I may have did 1-1.5 hours outside of class. 
