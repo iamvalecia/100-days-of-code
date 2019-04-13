@@ -1,6 +1,12 @@
 # 100 Days Of Code - Log
 
 
+### Day 7: April 12, 2019 Friday
+
+**Today's Progress**: Today was just a video tutorial day. I took some notes, as well. I'm learning how the web works.
+
+**Thoughts** I hope to do more tomorrow with my classwork, as well as with my personal projects. Today wasn't very hands-on.
+
 ### Day 6: April 11, 2019 Thurday
 
 **Today's Progress**: I learned a lot of git commands that I haven't had to use in my classwork yet. Installed live server for Visual Studio Code, but it wasn't very live.
@@ -12,9 +18,6 @@
 **Today's Progress**: I started a YouTube tutorial for creating a webpage. For my class, I am going back to the beginning of Unit 2(three weeks in) with the readings, videos and homework assignments. I fell behind and did a lot of spot reading. So I want some depth this time. In all I may have did 1-1.5 hours outside of class. 
 
 **Thoughts** I'm not expecting the YouTube playlist to change my life with HTML, CSS or even JS. It's been in my saved playlists for a while so with all the coding for class I've been doing I want to jump back into coding for me. I was doing JavaScript before the course. Class has been Python with stint of HTML and CSS.
-
-**Link(s) to work**
-1.
 
 ### Day 4: April 9, 2019 Tuesday
 
