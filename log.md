@@ -1,6 +1,12 @@
 # 100 Days Of Code - Log
 
 
+### Day 8: April 13, 2019 Saturday
+
+**Today's Progress**: Polishing up on HTML forms.
+
+**Thoughts** I think I found a solution to an old problem with some code I wrote months ago. 
+
 ### Day 7: April 12, 2019 Friday
 
 **Today's Progress**: Today was just a video tutorial day. I took some notes, as well. I'm learning how the web works.
