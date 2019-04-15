@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log
 
 
+### Day 9: April 14, 2019 Sunday
+
+**Today's Progress**: I did hands-on stuff for class. But I also restarted on an old project that was started on GitHub, then worked on elsewhere, and is now returning. I had to delete one unneeded branch and rename another. It wasn't too bad.
+
+**Thoughts** Why did I create two branches? And from where did the name "iamvalecia-patch-1" come? Was it auto-generated? Also I've learned how to name a git file since then, but I'm keeping this name for simplicity and nostalgia.
+
+**Link(s) to work**
+1. [name.js](https://github.com/iamvalecia/name.js)
+
 ### Day 8: April 13, 2019 Saturday
 
 **Today's Progress**: Polishing up on HTML forms.
