@@ -1,6 +1,12 @@
 # 100 Days Of Code - Log
 
 
+### Day 10: April 15, 2019 Sunday
+
+**Today's Progress**: Today was a study day. Validation in python.
+
+**Thoughts**: None about today's content. But I'm looking forward to tomorrow! Also it's day 10!
+
 ### Day 9: April 14, 2019 Sunday
 
 **Today's Progress**: I did hands-on stuff for class. But I also restarted on an old project that was started on GitHub, then worked on elsewhere, and is now returning. I had to delete one unneeded branch and rename another. It wasn't too bad.
