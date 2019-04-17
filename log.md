@@ -1,7 +1,13 @@
 # 100 Days Of Code - Log
 
 
-### Day 10: April 15, 2019 Sunday
+### Day 11: April 16, 2019 Tuesday
+
+**Today's Progress**: More validation study. I didn't get as much done as I would have liked. 
+
+**Thoughts**: Validation confuses me.
+
+### Day 10: April 15, 2019 Monday
 
 **Today's Progress**: Today was a study day. Validation in python.
 
