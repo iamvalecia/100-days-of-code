@@ -1,6 +1,12 @@
 # 100 Days Of Code - Log
 
 
+### Day 12: April 17, 2019 Wednesday
+
+**Today's Progress**: Validation day 3. It's coming together slowly.
+
+**Thoughts**: I feel better about validation today than I did yesterday. I can't write anything from scratch but the syntax is looking clearer. 
+
 ### Day 11: April 16, 2019 Tuesday
 
 **Today's Progress**: More validation study. I didn't get as much done as I would have liked. 
