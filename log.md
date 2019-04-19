@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 13: April 18, 2019 Thursday
+
+**Today's Progress**: Moved on to Jinja2. 
+
+**Thoughts**: So many new downloads. This is so different from the vanilla JavaScript I was doing beforehand. I downloaded Phaser and Ruby to check it out, but that's it. Some of the downloads has been git related so I won't completely blame python. Something new to learn and import.
 
 ### Day 12: April 17, 2019 Wednesday
 
