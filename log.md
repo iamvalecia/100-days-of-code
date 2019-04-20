@@ -4,7 +4,7 @@
 
 **Today's Progress**: Crash course in templates. Template Extensions. render_template method. 
 
-**Thoughts**: It wasn't officially named a crash course, but it felt like a lot of info in a short period. Time to move on to the graded assignment.
+**Thoughts**: It wasn't officially named a crash course, but it felt like a lot of info in a short period. Time to move on to the graded assignment. On the upside I sort of know how to make a todo list in Python and Javascript. But despite the time since I performed the task I believe doing it with JavaScript is more comfortable.
 
 **Link(s) to work**
 1. [Using Jinja2 Templates in Flask](https://www.youtube.com/watch?v=exR1kxpd1cY)(tutorial, one of)
