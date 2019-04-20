@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 14: April 19, 2019 Friday
+
+**Today's Progress**: Crash course in templates. Template Extensions. render_template method. 
+
+**Thoughts**: It wasn't officially named a crash course, but it felt like a lot of info in a short period. Time to move on to the graded assignment.
+
+**Link(s) to work**
+1. [Using Jinja2 Templates in Flask](https://www.youtube.com/watch?v=exR1kxpd1cY)(tutorial, one of)
+
 ### Day 13: April 18, 2019 Thursday
 
 **Today's Progress**: Moved on to Jinja2. 
