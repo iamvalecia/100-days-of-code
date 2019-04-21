@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+
+### Day 15: April 20, 2019 Saturday
+
+**Today's Progress**: Started to read up on SQL, but main focus is on my assignment called User-Signup. It includes forms, validation, templates, html, and Python.
+
+**Thoughts**: I think it's possible to complete this by Monday. I'm a bit behind. This challenge has helped me stay focused. Based on my thoughts during the tutorials, I'm surprised that I feel so confident. But I do. If I continue to work hard I think I got this.
+
 ### Day 14: April 19, 2019 Friday
 
 **Today's Progress**: Crash course in templates. Template Extensions. render_template method. 
