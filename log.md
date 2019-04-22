@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log
 
 
+### Day 16: April 21, 2019 Sunday
+
+**Today's Progress**: Finished my assignment.
+
+**Thoughts**: I would like to make it better. I would like the URL to match the content of the page. But I'm not sure how to do that without displaying sensitive info in the URL(get method). What I want isn't a requirement, so I won't exhaust myself too much about it.
+
+**Link(s) to work**
+1. [user-signup](https://github.com/iamvalecia/user-signup)
+
 ### Day 15: April 20, 2019 Saturday
 
 **Today's Progress**: Started to read up on SQL, but main focus is on my assignment called User-Signup. It includes forms, validation, templates, html, and Python.
