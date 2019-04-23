@@ -1,6 +1,12 @@
 # 100 Days Of Code - Log
 
 
+### Day 17: April 22, 2019 Monday
+
+**Today's Progress**: Today was a bit of a rest day. I did make a correction in my assignment just moments before it was due. I noticed it and rewrote the function in a couple of minutes.
+
+**Thoughts**: Tomorrow more SQL.
+
 ### Day 16: April 21, 2019 Sunday
 
 **Today's Progress**: Finished my assignment.
