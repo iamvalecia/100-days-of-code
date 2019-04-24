@@ -1,6 +1,12 @@
 # 100 Days Of Code - Log
 
 
+### Day 18: April 23, 2019 Tuesday
+
+**Today's Progress**: I started off working on SQL for class. It seemed a bit tedious, so I switched to HTML and JavaScript, my personal endeavors.
+
+**Thoughts**: Maybe I need a better resource than w3schools.com, which I was pointed to by the curriculum. 
+
 ### Day 17: April 22, 2019 Monday
 
 **Today's Progress**: Today was a bit of a rest day. I did make a correction in my assignment just moments before it was due. I noticed it and rewrote the function in a couple of minutes.
