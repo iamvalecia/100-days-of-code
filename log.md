@@ -1,6 +1,12 @@
 # 100 Days Of Code - Log
 
 
+### Day 19: April 24, 2019 Wednesday
+
+**Today's Progress**: More SQL. 
+
+**Thoughts**: It seems like a cool language. I hope to dig more into it tomorrow.
+
 ### Day 18: April 23, 2019 Tuesday
 
 **Today's Progress**: I started off working on SQL for class. It seemed a bit tedious, so I switched to HTML and JavaScript, my personal endeavors.
