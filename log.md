@@ -1,6 +1,12 @@
 # 100 Days Of Code - Log
 
 
+### Day 20: April 25, 2019 Thursday
+
+**Today's Progress**: More SQL. 
+
+**Thoughts**: I can do better tomorrow. I got my hour in, but it was very sporadic.
+
 ### Day 19: April 24, 2019 Wednesday
 
 **Today's Progress**: More SQL. 
