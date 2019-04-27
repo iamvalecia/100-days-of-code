@@ -1,6 +1,12 @@
 # 100 Days Of Code - Log
 
 
+### Day 21: April 26, 2019 Friday
+
+**Today's Progress**: More SQL. 
+
+**Thoughts**: Hoping to get to a point where I can integrate this with the Python I've been learning.
+
 ### Day 20: April 25, 2019 Thursday
 
 **Today's Progress**: More SQL. 
