@@ -1,6 +1,12 @@
 # 100 Days Of Code - Log
 
 
+### Day 22: April 28, 2019 Sunday*
+
+**Today's Progress**: No classwork today. Just HTML.
+
+**Thoughts**: I skipped a day. I needed a break. Today I eased back in with non-classwork.
+
 ### Day 21: April 26, 2019 Friday
 
 **Today's Progress**: More SQL. 
