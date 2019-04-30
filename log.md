@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log
 
 
+### Day 23: April 29, 2019 Monday
+
+**Today's Progress**: I didn't intend to make a GitHub page today but I did. Nothing big on my part, I just selected an option from a drop-down menu. But I think it's cool that I can share this page with an actual URL now. I also worked more on HTML. I hope to do some SQL reading before I go to bed.
+
+**Thoughts** Again I think GitHub pages is cool. I want to look more into hosting a whole website here. My reading and experiment tells me it's a no-go for Python or Node.js though.
+
+**Link(s) to work**
+1. [HTML-Me-Something](https://github.com/iamvalecia/html-me-something)
+2. [HTML-Me-Something Pages](http://iamvalecia.github.io/html-me-something)
+
 ### Day 22: April 28, 2019 Sunday*
 
 **Today's Progress**: No classwork today. Just HTML.
