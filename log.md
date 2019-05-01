@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log
 
 
+### Day 24: April 30, 2019 Tuesday
+
+**Today's Progress**: I may finally be making a headway with SQL. I'm abandoning the curriculum for a second for something I think is more concise. Then I'm going to dive into the graded assignment.
+
+**Thoughts** I hope to keep up the momentum.
+
+**Link(s) to work**
+1. [Learn SQL In 60 Minutes](https://www.youtube.com/watch?v=p3qvj9hO_Bo) tutorial
+
 ### Day 23: April 29, 2019 Monday
 
 **Today's Progress**: I didn't intend to make a GitHub page today but I did. Nothing big on my part, I just selected an option from a drop-down menu. But I think it's cool that I can share this page with an actual URL now. I also worked more on HTML. I hope to do some SQL reading before I go to bed.
