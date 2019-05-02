@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 25: May 1, 2019 Wednesday
+
+**Today's Progress**: Worked with the youtube video from yesterday. Also set up the environment for my classwork in the recommended server. 
+
+**Thoughts** I feel so much more confident with SQL now. I also like the server used in the YouTube tutorial better.
 
 ### Day 24: April 30, 2019 Tuesday
 
