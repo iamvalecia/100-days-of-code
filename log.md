@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+
+### Day 26: May 2, 2019 Thursday
+
+**Today's Progress**: Trying to get back in sync with LC101 curriculum. Finished up SQL basics. Laying out plan to complete my next assignment. Also looking into SQL hosting.
+
+**Thoughts** I wasted a lot of time on the class resources for SQL. YouTube did me fine. But I may still need to fill in the gaps on things the video didn't cover as to not be behind my classmates. The video was really good though.
+
 ### Day 25: May 1, 2019 Wednesday
 
 **Today's Progress**: Worked with the youtube video from yesterday. Also set up the environment for my classwork in the recommended server. 
@@ -13,7 +20,7 @@
 **Thoughts** I hope to keep up the momentum.
 
 **Link(s) to work**
-1. [Learn SQL In 60 Minutes](https://www.youtube.com/watch?v=p3qvj9hO_Bo) tutorial
+1. [Learn SQL In 60 Minutes](https://www.youtube.com/watch?v=p3qvj9hO_Bo) (tutorial)
 
 ### Day 23: April 29, 2019 Monday
 
