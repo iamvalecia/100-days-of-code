@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log
 
 
+### Day 27: May 4, 2019 Saturday*
+
+**Today's Progress**: Yesterday I skipped. Today I got in some time on my band website, the site I'm building for web dev YouTube tutorial. It's by a guy named Kyle, the same man whose tutorial I used for SQL. I also worked a little on classwork. Going to combine SQL with Python finally.
+
+**Thoughts** I would have been really proud of myself if I had coded more after work. I managed to code before work. 
+
+**Link(s) to work**
+1. [Intro to Web Development](https://www.youtube.com/watch?v=HfTXHrWMGVY&list=PLZlA0Gpn_vH-cEDOofOujFIknfZZpIk3a) (tutorial)
+
 ### Day 26: May 2, 2019 Thursday
 
 **Today's Progress**: Trying to get back in sync with LC101 curriculum. Finished up SQL basics. Laying out plan to complete my next assignment. Also looking into SQL hosting.
