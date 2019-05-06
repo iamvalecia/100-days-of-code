@@ -1,6 +1,12 @@
 # 100 Days Of Code - Log
 
 
+### Day 28: May 5, 2019 Sunday
+
+**Today's Progress**: I worked on some SQL query problems. One that challenged me was combining join, count, and where.
+
+**Thoughts** I did okay with the time that I had today.
+
 ### Day 27: May 4, 2019 Saturday*
 
 **Today's Progress**: Yesterday I skipped. Today I got in some time on my band website, the site I'm building for web dev YouTube tutorial. It's by a guy named Kyle, the same man whose tutorial I used for SQL. I also worked a little on classwork. Going to combine SQL with Python finally.
