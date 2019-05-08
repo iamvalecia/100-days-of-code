@@ -1,6 +1,12 @@
 # 100 Days Of Code - Log
 
 
+### Day 29: May 6, 2019 Sunday
+
+**Today's Progress**: I forgot to update for May 6. I did some more SQL problem queries. I solved them, but I don't think I did them efficiently.
+
+**Thoughts** Time will tell how well I solved those problems I suppose. I probably will have pages of code when others have three lines.
+
 ### Day 28: May 5, 2019 Sunday
 
 **Today's Progress**: I worked on some SQL query problems. One that challenged me was combining join, count, and where.
