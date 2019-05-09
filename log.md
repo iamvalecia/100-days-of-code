@@ -1,6 +1,12 @@
 # 100 Days Of Code - Log
 
 
+### Day 30: May 8, 2019 Wednesday*
+
+**Today's Progress**: I looked into Phaser again. I just followed along a video introducing it. I also started to put together new goals for the remainder of the challenge and revisited old code. 
+
+**Thoughts** Let's have some fun.
+
 ### Day 29: May 6, 2019 Sunday
 
 **Today's Progress**: I forgot to update for May 6. I did some more SQL problem queries. I solved them, but I don't think I did them efficiently.
