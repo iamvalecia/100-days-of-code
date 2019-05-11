@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log
 
 
+### Day 31: May 10, 2019 Friday*
+
+**Today's Progress**: I was working on Phaser tutorial. I wanted to know what made a picture a sprite, so I ventured out and made my own. It happens to look just like a simple square. That's okay for now. 
+
+**Thoughts** This seems fun...Also I need to finish listing my new plans and meaningfully work on them.
+
+**Link(s) to work**
+1. [Frogger Game](https://academy.zenva.com) (tutorial)...I will try to find direct link to free tutorial.
+
 ### Day 30: May 8, 2019 Wednesday*
 
 **Today's Progress**: I looked into Phaser again. I just followed along a video introducing it. I also started to put together new goals for the remainder of the challenge and revisited old code. 
