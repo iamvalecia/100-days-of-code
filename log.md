@@ -1,7 +1,13 @@
 # 100 Days Of Code - Log
 
 
-### Day 32: May 11, 2019 Saturday*
+### Day 33: May 12, 2019 Sunday
+
+**Today's Progress**: I tried to incorporate a spritesheet, not just a sole image, into my code. I wanted the appearance of movement. I couldn't get it to work. I'm still trying at the moment. Maybe I will get it tomorrow. #Phaser
+
+**Thoughts** The more I read, the more their knowledge will become my own.
+
+### Day 32: May 11, 2019 Saturday
 
 **Today's Progress**: I continued to work through the Phaser game tutorial. 
 
