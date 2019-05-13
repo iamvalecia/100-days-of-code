@@ -1,6 +1,12 @@
 # 100 Days Of Code - Log
 
 
+### Day 32: May 11, 2019 Saturday*
+
+**Today's Progress**: I continued to work through the Phaser game tutorial. 
+
+**Thoughts** I'm thinking of ways to branch out from tutorials once I'm done with this. I want to know that I know it.
+
 ### Day 31: May 10, 2019 Friday*
 
 **Today's Progress**: I was working on Phaser tutorial. I wanted to know what made a picture a sprite, so I ventured out and made my own. It happens to look just like a simple square. That's okay for now. 
