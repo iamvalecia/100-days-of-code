@@ -1,6 +1,23 @@
 # 100 Days Of Code - Log
 
 
+### Day 34: May 13, 2019 Monday
+
+**Today's Progress**: After last night's update I did manage to load my spritesheet. Funny thing is the solution looks similar to something I had already tried. Maybe I was missing something really small or the page needed to reload.
+
+Anyways I got the little guy moving and jumping. I'm following along with a different tutorial. I'm going to make a game called Save-A-Dino, or something to the effect. I tried an animation for his jumping, so that he can have a different motion rather than him remaining in the same pose while moving up. This wasn't in the tutorial, but it seemed easy to create on my own. But I couldn't get it to work.
+
+I pushed two things to github -- the game and an old todo list. The todo-list is in JavaScript. I don't want to forget the roots of JS! Plus this is in need of a retouch.
+
+I will be adding readMe files soon.
+
+**Thoughts** This was a good day.
+
+**Link(s) to work**
+1. [Save-a-Dino](https://academy.zenva.comhttps://github.com/iamvalecia/save-a-dino) 
+2. [Todo-List](https://github.com/iamvalecia/todo-list) 
+3. [Phaser.io Tutorial](http://phaser.io/tutorials/making-your-first-phaser-3-game/part1) (tutorial)
+
 ### Day 33: May 12, 2019 Sunday
 
 **Today's Progress**: I tried to incorporate a spritesheet, not just a sole image, into my code. I wanted the appearance of movement. I couldn't get it to work. I'm still trying at the moment. Maybe I will get it tomorrow. #Phaser
