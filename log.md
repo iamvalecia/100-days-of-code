@@ -1,11 +1,19 @@
 # 100 Days Of Code - Log
 
 
+### Day 35: May 14, 2019 Tuesday
+
+**Today's Progress**: I worked some more on my game. He's collecting food now.
+
+I have some experience with servers, not a lot though. Every Phaser tutorial says to set one up for the game for security reasons. But I think they leave out some steps after the server recommendations and download. I did notice a difference between my files and files from others. I tried to follow through with the suggestion but to no avail. 
+
+**Thoughts** Still fun.
+
 ### Day 34: May 13, 2019 Monday
 
 **Today's Progress**: After last night's update I did manage to load my spritesheet. Funny thing is the solution looks similar to something I had already tried. Maybe I was missing something really small or the page needed to reload.
 
-Anyways I got the little guy moving and jumping. I'm following along with a different tutorial. I'm going to make a game called Save-A-Dino, or something to the effect. I tried an animation for his jumping, so that he can have a different motion rather than him remaining in the same pose while moving up. This wasn't in the tutorial, but it seemed easy to create on my own. But I couldn't get it to work.
+Anyways I got the little guy moving and jumping. I'm following along with a different tutorial. I'll be making my own game as I follow along. Of course, when the tutorial is over it'll be up to me to finish the specifics of my game. It's going to be called Save-A-Dino, or something to the effect. I tried an animation for his jumping, so that he can have a different motion rather than him remaining in the same pose while moving up. This wasn't in the tutorial, but it seemed easy to create on my own. But I couldn't get it to work.
 
 I pushed two things to github -- the game and an old todo list. The todo-list is in JavaScript. I don't want to forget the roots of JS! Plus this is in need of a retouch.
 
