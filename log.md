@@ -7,7 +7,12 @@
 
 I have some experience with servers, not a lot though. Every Phaser tutorial says to set one up for the game for security reasons. But I think they leave out some steps after the server recommendations and download. I did notice a difference between my files and files from others. I tried to follow through with the suggestion but to no avail. 
 
+Also I submitted my first README. It's for my todoList.
+
 **Thoughts** Still fun.
+
+**Link(s) to work**
+1. [Todo-List README](https://github.com/iamvalecia/todo-list/blob/master/README.md)
 
 ### Day 34: May 13, 2019 Monday
 
