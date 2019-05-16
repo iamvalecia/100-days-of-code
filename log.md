@@ -1,6 +1,12 @@
 # 100 Days Of Code - Log
 
 
+### Day 36: May 15, 2019 Wednesday
+
+**Today's Progress**: I searched for answers about my jump animation problem from Day 34. I couldn't find one. I asked for help avenues but no reply yet. I got just a little more done on the game. Mostly just a bunch of trial and control-z.
+
+**Thoughts** I think I wasted time looking for help when I should have just going.
+
 ### Day 35: May 14, 2019 Tuesday
 
 **Today's Progress**: I worked some more on my game. He's collecting food now.
