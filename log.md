@@ -1,6 +1,12 @@
 # 100 Days Of Code - Log
 
 
+### Day 37: May 16, 2019 Thursday
+
+**Today's Progress**: I commited some changes to my game. The changes are from a day or two ago. I haven't pushed them yet. I worked some more on my game. 
+
+**Thoughts** I am frustrated because I can't animate things the way I would like.
+
 ### Day 36: May 15, 2019 Wednesday
 
 **Today's Progress**: I searched for answers about my jump animation problem from Day 34. I couldn't find one. I asked for help avenues but no reply yet. I got just a little more done on the game. Mostly just a bunch of trial and control-z.
