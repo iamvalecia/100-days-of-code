@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log
 
 
+### Day 38: May 17, 2019 Friday
+
+**Today's Progress**: Thanks to some advice that put me in the right direction I was able work through a phaser animation for with I was having problems. So that was a good thing! To accomplish it I created two variables but after commiting the changes I found that I didn't need them. So they may get axed. 
+
+Also these animations aren't perfect. They just work.
+
+**Thoughts** The advice came from Phaser's forum. Glad someone answered my question.
+
+**Link(s) to work**
+1. [Save-a-Dino](https://github.com/iamvalecia/save-a-dino/commit/36d0d84f530496ab712ce248f0004d13bd09bc39)
+
 ### Day 37: May 16, 2019 Thursday
 
 **Today's Progress**: I commited some changes to my game. The changes are from a day or two ago. I haven't pushed them yet. I worked some more on my game. 
