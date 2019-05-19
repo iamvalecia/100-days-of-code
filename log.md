@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log
 
 
+### Day 38.5: May 18, 2019 Saturday
+
+**Today's Progress**: No coding today. And I don't think I read or studied for an hour. I read about local servers and how the internet works. I opened my dino game using a server that came with my Python installation. I still don't completely understand how a Phaser game I downloaded can only be opened on a server, but the game I created can be opened as a local file. And since it can be opened as a local file then why is it recommended that set up a server.
+
+**Thoughts** I may have to go over this a lot.
+
+**Link(s) to work**
+1. [Setting up local testing server](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/set_up_a_local_testing_server)(lesson)
+2. [How the internet works](https://developer.mozilla.org/en-US/docs/Learn/How_the_Internet_works)(lesson)
+
 ### Day 38: May 17, 2019 Friday
 
 **Today's Progress**: Thanks to some advice that put me in the right direction I was able work through a phaser animation for with I was having problems. So that was a good thing! To accomplish it I created two variables but after commiting the changes I found that I didn't need them. So they may get axed. 
