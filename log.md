@@ -1,6 +1,29 @@
 # 100 Days Of Code - Log
 
 
+### Day 39: May 19, 2019 Sunday
+
+**Today's Progress**: So I want a health meter for my game instead of a scoreboard. The health meter will use hearts. I needed a way for the hearts to remain static in the top left corner, yet animate to the different frames. Putting it in a static group didn't work. But I found out that I could adjust the gravity on it specifically. I just had to figure how to do. 
+
+These DID NOT WORK.
+- //heart.body.gravity.y = 0;
+- //heart.setGravityY(0);
+- //heart.body.setGravityY(0);
+- //heart.setAllowGravity(false);
+
+This one DID WORK.
+
+- heart.body.setAllowGravity(false);
+
+Also the .disableBody() method appears to be only for dynamic sprites.
+
+So now my dino can collect food with the heart meter. In my last commit(May 18) whenever he overlapped with food he froze. Other tries had everything falling off game area. However, the meter isn't animating correctly, though it is animating. I will fix it.
+
+I will commit tomorrow.
+
+**Thoughts** I am so happy about that. 
+
+
 ### Day 38.5: May 18, 2019 Saturday
 
 **Today's Progress**: No coding today. And I don't think I read or studied for an hour. I read about local servers and how the internet works. I opened my dino game using a server that came with my Python installation. I still don't completely understand how a Phaser game I downloaded can only be opened on a server, but the game I created can be opened as a local file. And since it can be opened as a local file then why is it recommended that set up a server.
