@@ -1,6 +1,22 @@
 # 100 Days Of Code - Log
 
 
+### Day 40: May 20, 2019 Monday
+
+**Today's Progress**: I made two commits on game today. The first one I was able to get the health meter animating correctly. I have some test code in it now since I haven't finished the game plans.
+
+My second commit was flipping my dino and manuevering him left.
+
+Also today was at least the secoond day of looking at Phaser documentation. I still often end up finishing my search with an answer on a forum, because I don't understand how it's given in the docs. Or sometimes, like yesterday, I can find something more official but it's for Phaser 2.
+
+Right now I'm trying to use a sprite of text to put into my game, instead stright text. But I might not work on that tomorrow.
+
+**Thoughts** Life's good.
+
+**Link(s) to work**
+1. [health meter is spritesheet, no freeze](https://github.com/iamvalecia/save-a-dino/commit/ffc0c31b5ac9228bbcb57f6d39d202282213ed0e)
+2. [dino can move left](https://github.com/iamvalecia/save-a-dino/commit/19965d69c5e5d719fe93cbd678d0071dd9f4bfec)
+
 ### Day 39: May 19, 2019 Sunday
 
 **Today's Progress**: So I want a health meter for my game instead of a scoreboard. The health meter will use hearts. I needed a way for the hearts to remain static in the top left corner, yet animate to the different frames. Putting it in a static group didn't work. But I found out that I could adjust the gravity on it specifically. I just had to figure how to do. 
