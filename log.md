@@ -5,11 +5,13 @@
 
 **Today's Progress**: The font spritesheet that I intended to use is no longer on the table. I ended up finding a really good font at google. 
 
-I started to add asteroids to my game. Hopefully an organized commit will come tomorrow. 
+I started to add asteroids to my game. Hopefully an organized commit will come tomorrow.
+
+Also I wanted to add that yesterday when dealing with my heart animating, I learned that 165 is different from 164.333. That's what kept my heart from animating.
 
 **Issues** It takes a reload to see healthText; it's not there on the initial load of the page. But maybe I can find a way to preload. That seems to be the way. I just thought of it, so I haven't tried it.
 
-**Thoughts** I'm starting to think programming with Phaser 3 instead of an earlier version was a bad idea. There's tons of info on earlier versions. My code is 250 lines at the moment. It's getting to be a lot to handle.
+**Thoughts** I'm starting to think programming with Phaser 3 instead of an earlier version was a bad idea. There's tons of info on earlier versions. Plus My code is 250 lines at the moment. It's getting to be a lot to handle.
 
 **Link(s) to work**
 1. [added healthText](https://github.com/iamvalecia/save-a-dino/commit/768540c375b7824e79fc5949eebd2def00e05a2c)
