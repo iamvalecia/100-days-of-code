@@ -1,6 +1,19 @@
 # 100 Days Of Code - Log
 
 
+### Day 41: May 21, 2019 Tuesday
+
+**Today's Progress**: The font spritesheet that I intended to use is no longer on the table. I ended up finding a really good font at google. 
+
+I started to add asteroids to my game. Hopefully an organized commit will come tomorrow. 
+
+**Issues** It takes a reload to see healthText; it's not there on the initial load of the page. But maybe I can find a way to preload. That seems to be the way. I just thought of it, so I haven't tried it.
+
+**Thoughts** I'm starting to think programming with Phaser 3 instead of an earlier version was a bad idea. There's tons of info on earlier versions. My code is 250 lines at the moment. It's getting to be a lot to handle.
+
+**Link(s) to work**
+1. [added healthText](https://github.com/iamvalecia/save-a-dino/commit/768540c375b7824e79fc5949eebd2def00e05a2c)
+
 ### Day 40: May 20, 2019 Monday
 
 **Today's Progress**: I made two commits on game today. The first one I was able to get the health meter animating correctly. I have some test code in it now since I haven't finished the game plans.
