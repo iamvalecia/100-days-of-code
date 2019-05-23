@@ -1,6 +1,19 @@
 # 100 Days Of Code - Log
 
 
+### Day 42: May 22, 2019 Wednesday
+
+**Today's Progress**: Yesterday I said that I sort of regretted going with Phaser 3 instead of an earlier version. I still sort of do. I'm managing with docs and examples, or labs as they call them. One example on events led me to adding a loop event for my asteroids. I still need to mess around with numbers. Then again I have a lot of things to mess around with for my game.
+
+I've played around with the source code for the Phaser tutorial. That was fun making the game extremely difficult.
+
+**Thoughts**: I **think** I've almost incorporated everything I need for my game. This isn't referring to being done, just all the tools I might need from Phaser and JS. I know I have a ways to go before completion. Time will tell.
+
+**Link(s) to work**
+1. [added asteroids with .addEvent loop](https://github.com/iamvalecia/save-a-dino/commit/7b79680d3a12775560044d6c49ef786898f17514)
+2. [Looped Event](http://labs.phaser.io/edit.html?src=src\time\looped%20event.js)(example)
+
+
 ### Day 41: May 21, 2019 Tuesday
 
 **Today's Progress**: The font spritesheet that I intended to use is no longer on the table. I ended up finding a really good font at google. 
