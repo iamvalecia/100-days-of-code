@@ -1,6 +1,19 @@
 # 100 Days Of Code - Log
 
 
+### Day 43: May 23, 2019 Thursday
+
+**Today's Progress**: To turn my asteroid into an explosion I added to the asteroidExplosion(); I added a spritesheet. **One of the problems** is that the explosion sprite won't collide with the ground. It falls off the game area. The **second problem** is that my font style loads to another style. I don't know what those two things have to do with one another. The **third problem** is that whenever I try to fix things I get an error message, mostly referring to line 255 in the commit. 
+
+So asteroid.disableBody works in the commit. But if I tried to fix any of the problems, it would say that it wasn't a function or asteroid(s) was simply undefined. Maybe Phaser/JS doesn't like how I added the asteroid or the explosion. 
+
+I've since went back to the sixth commit before the asteroids to try to work on gameplay and actually making it look and perform nice. 
+
+**Thoughts**: Tomorrow I'm going to take a break from my game. Maybe I will play some games. I will do basic JS stuff.
+
+**Link(s) to work**
+1. [added explosion, explosion won't collide and font style is off](https://github.com/iamvalecia/save-a-dino/commit/53afa91149b101dd5612f5756962a67d95239171)
+
 ### Day 42: May 22, 2019 Wednesday
 
 **Today's Progress**: Yesterday I said that I sort of regretted going with Phaser 3 instead of an earlier version. I still sort of do. I'm managing with docs and examples, or labs as they call them. One example on events led me to adding a loop event for my asteroids. I still need to mess around with numbers. Then again I have a lot of things to mess around with for my game.
