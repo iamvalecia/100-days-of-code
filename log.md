@@ -12,7 +12,7 @@ I've since went back to the sixth commit before the asteroids to try to work on 
 **Thoughts**: Tomorrow I'm going to take a break from my game. Maybe I will play some games. I will do basic JS stuff.
 
 **Link(s) to work**
-1. [added explosion, explosion won't collide and font style is off](https://github.com/iamvalecia/save-a-dino/commit/53afa91149b101dd5612f5756962a67d95239171)
+1. [added explosion, explosion won't collide and font style is off](https://github.com/iamvalecia/save-a-dino/commit/e6f4e78977e782679a0059eea85dff0b4da2e3df)(with explosion sprite)
 
 ### Day 42: May 22, 2019 Wednesday
 
