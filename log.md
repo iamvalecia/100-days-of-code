@@ -1,6 +1,21 @@
 # 100 Days Of Code - Log
 
 
+### Day 44: May 24, 2019 Friday
+
+**Today's Progress**: I'm making this entry a day late.
+
+I read two lessons on web dev. I also did some quick experimenting with my game. The commit on Day 43 - May 23 didn't need a refresh to load the text. It did it on the first try.
+
+I added the css attribute to the html file, not committed yet. It didn't seem to help consistently, especially  across browsers. That's something I want to learn. Keeping things the same across browsers as much as possible. Sometimes when it loads on the first try it's not the correct font-style.
+
+**Thoughts**: None.
+
+**Link(s) to work**
+1. [Webpages, Website, Server, & Engine](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Pages_sites_servers_and_search_engines)(lesson)
+2. [What is a web server?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_web_server)(lesson)
+
+
 ### Day 43: May 23, 2019 Thursday
 
 **Today's Progress**: To turn my asteroid into an explosion I added to the asteroidExplosion(); I added a spritesheet. **One of the problems** is that the explosion sprite won't collide with the ground. It falls off the game area. The **second problem** is that my font style loads to another style. I don't know what those two things have to do with one another. The **third problem** is that whenever I try to fix things I get an error message, mostly referring to line 255 in the commit. 
