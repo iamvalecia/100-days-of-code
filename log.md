@@ -1,6 +1,12 @@
 # 100 Days Of Code - Log
 
 
+### Day 45: May 26, 2019 Sunday*
+
+**Today's Progress**: I'm still taking a break from my game. I decided to work on Web Dev, CSS to be more specific. I'm also planning how I want my portfolio site to look.
+
+**Thoughts**: I've imagined a portfolio site for a while now. But now I'm actually planning it and drawing it out. It's getting real.
+
 ### Day 44: May 24, 2019 Friday
 
 **Today's Progress**: I'm making this entry a day late.
