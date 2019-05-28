@@ -1,6 +1,12 @@
 # 100 Days Of Code - Log
 
 
+### Day 46: May 27, 2019 Monday
+
+**Today's Progress**: I worked on CSS for this band site in the YouTube tutorial I was doing earlier in the challenge.
+
+**Thoughts**: I've been doing this series of videos for too long. It's my goal to finish it my the end of Wednesday. 
+
 ### Day 45: May 26, 2019 Sunday*
 
 **Today's Progress**: I'm still taking a break from my game. I decided to work on Web Dev, CSS to be more specific. I'm also planning how I want my portfolio site to look.
