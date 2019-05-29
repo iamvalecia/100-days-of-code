@@ -1,6 +1,27 @@
 # 100 Days Of Code - Log
 
 
+### Day 47: May 28, 2019 Tuesday
+
+**Today's Progress**: I've been studying CSS the last couple days. The good: I made a really nice-looking page. The bad: Even with the studying I can't get CSS to load in my Phaser game properly and consistently.
+
+In my tutorial the guy imports a google font. I had been embedding it the standard way with this in the  head of the html.
+
+` <link href="https://fonts.googleapis.com/css?family=Press+Start+2P&display=swap" rel="stylesheet"> `
+According to Google this goes in the stylesheet CSS:
+
+` font-family: 'Press Start 2P', cursive; `
+But there's a place to declare font-family in the game.js file. So I have two declarations.
+
+Today I tried importing with this in the stylesheet:
+
+` @import url('https://fonts.googleapis.com/css?family=Press+Start+2P&display=swap'); `
+No avail. Same inconsistencies. I'm sure I tried before, but maybe I should do it with an actual CSS file next. Though I don't see it making much difference; but you never know.
+
+But it works great in my webpage! I've already sort of mentioned that.
+
+**Thoughts**: Gotta keep going. Keep reading. Keep listening. Keep studying.
+
 ### Day 46: May 27, 2019 Monday
 
 **Today's Progress**: I worked on CSS for this band site in the YouTube tutorial I was doing earlier in the challenge.
