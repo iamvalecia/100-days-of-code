@@ -1,6 +1,12 @@
 # 100 Days Of Code - Log
 
 
+### Day 48: May 29, 2019 Wednesday
+
+**Today's Progress**: I did not meet my goal set on Day 46. I did some more CSS.
+
+**Thoughts**: Having things not look the same across browsers is getting frustrating. 
+
 ### Day 47: May 28, 2019 Tuesday
 
 **Today's Progress**: I've been studying CSS the last couple days. The good: I made a really nice-looking page. The bad: Even with the studying I can't get CSS to load in my Phaser game properly and consistently.
