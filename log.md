@@ -1,6 +1,14 @@
 # 100 Days Of Code - Log
 
 
+### Day 49: May 30, 2019 Thursday
+
+**Today's Progress**: More CSS. I thought I knew better than the instructor when I applied HTML elements to my content, so while doing the CSS, to get things to work, I had to redo the tags.
+
+On slack I got a link from someone on CSS consistency across browsers. I haven't looked into it yet. Hopefully he can help me as I do.
+
+**Thoughts**: Almost done with my band site!
+
 ### Day 48: May 29, 2019 Wednesday
 
 **Today's Progress**: I did not meet my goal set on Day 46. I did some more CSS.
