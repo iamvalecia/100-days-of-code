@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log
 
 
+### Day 50: May 31, 2019 Friday
+
+**Today's Progress**: I am done with the CSS portion of my band site. I've also found two useful search terms for my CSS problem. 
+
+`responsive web design`
+`css consistent across browsers`
+
+I looked at a source which came from the latter search and it mentioned things like viewport and width: device-width. I remember those from a Phaser tutorial.
+
+**Thoughts**: Once I finish this I'm not sure what to do next. I have a couple of options in mind. I don't know which to pick first.
+
 ### Day 49: May 30, 2019 Thursday
 
 **Today's Progress**: More CSS. I thought I knew better than the instructor when I applied HTML elements to my content, so while doing the CSS, to get things to work, I had to redo the tags.
@@ -8,6 +19,8 @@
 On slack I got a link from someone on CSS consistency across browsers. I haven't looked into it yet. Hopefully he can help me as I do.
 
 **Thoughts**: Almost done with my band site!
+
+[How to load web fonts...](https://www.freecodecamp.org/news/web-fonts-in-2018-f191a48367e8/)(link from slack, haven't attempted yet)
 
 ### Day 48: May 29, 2019 Wednesday
 
