@@ -1,6 +1,12 @@
 # 100 Days Of Code - Log
 
 
+### Day 51: June 1, 2019 Saturday
+
+**Today's Progress**: I did the JS portion of the video series. I tried to do it solo before watching, but I didn't know how. Some of the stuff, I think, could be done like my todo list. Even after watching I still don't understand. But it was a 45 minute JS lesson trying to teach shopping cart.
+
+**Thoughts**: Still laying out the plan for the next 50 days. I also started my website coding.
+
 ### Day 50: May 31, 2019 Friday
 
 **Today's Progress**: I am done with the CSS portion of my band site. I've also found two useful search terms for my CSS problem. 
