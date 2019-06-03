@@ -1,9 +1,24 @@
 # 100 Days Of Code - Log
 
 
+### Day 52: June 2, 2019 Sunday
+
+**Today's Progress**: Made headway on an old repository. It was a really simple fix. I just needed one line of code. I thought I wasn't grasping something new, but it was a beginner oversight. A function can't run unless it's called. 
+
+I worked more on my site. I am going through the Mozilla 'Learn Web Development' lessons from beginning to end. 
+
+**Thoughts** I fill proud of myself. But I still feel like I waste so much time on simple things.
+
+**Link(s) to work**
+1. [successfully added keyboard control](https://github.com/iamvalecia/name.js/commit/bb9fdc20cadac19318f4a898fa91e850e0f14db1)
+
 ### Day 51: June 1, 2019 Saturday
 
-**Today's Progress**: I did the JS portion of the video series. I tried to do it solo before watching, but I didn't know how. Some of the stuff, I think, could be done like my todo list. Even after watching I still don't understand. But it was a 45 minute JS lesson trying to teach shopping cart.
+**Today's Progress**: I saw that providing the initials from a string was a common challenge, so I decided to work on that before work in JavaScript. I've already done it in Python.
+
+I also read the webfonts article. I decided to put it in the vault until I'm ready for it.
+
+I did the JS portion of the video series. I tried to do it solo before watching, but I didn't know how. Some of the stuff, I think, could be done like my todo list. Even after watching I still don't understand. But it was a 45 minute JS lesson trying to teach shopping cart.
 
 **Thoughts**: Still laying out the plan for the next 50 days. I also started my website coding.
 
