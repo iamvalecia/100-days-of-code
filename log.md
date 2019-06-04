@@ -1,6 +1,19 @@
 # 100 Days Of Code - Log
 
 
+### Day 53: June 3, 2019 Monday
+
+**Today's Progress**: Had some fun with my website. Yesterday I learned about local storage so I added that to my site. The frustrating part was getting it to work with input and modifying the DOM then fixing the CSS. But I got it to work and look good if I say so myself.
+
+Two methods didn't work for me. `localStorage.clear()` and `localStorage.removeItem()`. I just declared a variable in a function to get around it.
+
+I read a lesson by Mozilla about how the web works. The recommended reading at the end of it looks good, so I'm saving a link to it.
+
+**Thoughts** Today was fun.
+
+**Link(s) to work**
+1. [How the Web works](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)(lesson)
+
 ### Day 52: June 2, 2019 Sunday
 
 **Today's Progress**: Made headway on an old repository. It was a really simple fix. I just needed one line of code. I thought I wasn't grasping something new, but it was a beginner oversight. A function can't run unless it's called. 
