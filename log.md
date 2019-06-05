@@ -1,6 +1,18 @@
 # 100 Days Of Code - Log
 
 
+### Day 54: June 4, 2019 Tuesday
+
+**Today's Progress**: I am making this log entry a day late.
+
+Worked on my todo list. But I'm not using the model I already have. I nearly started from scratch. I'm adding things to my list without objects and arrays, sort of how I'm working with the DOM on name.js. Actually on my site I'm doing name.js with local storage. So my todolist is more like that in my opinion. 
+
+I did try to modify the old todo list, but I couldn't figure out how to modify the UI/UX position number. Now I feel like old the todolist has everything it needs to function as a todo list, but maybe too much. Do you really need a toggle like that? I'm grateful that in making it, it taught me about JavaScript.
+
+I will commit soon.
+
+**Thoughts** :-)
+
 ### Day 53: June 3, 2019 Monday
 
 **Today's Progress**: Had some fun with my website. Yesterday I learned about local storage so I added that to my site. The frustrating part was getting it to work with input and modifying the DOM then fixing the CSS. But I got it to work and look good if I say so myself.
