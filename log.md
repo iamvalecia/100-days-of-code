@@ -1,7 +1,13 @@
 # 100 Days Of Code - Log
 
 
-### Day 55: June 5, 2019 Wednedday
+### Day 56: June 6, 2019 Thursday
+
+**Today's Progress**: I'm convinced my programs don't like me. Nothing's working except the todo list.
+
+**Thoughts** I will probably focus on learning content tomorrow.
+
+### Day 55: June 5, 2019 Wednesday
 
 **Today's Progress**: This update is a day late, again.
 
