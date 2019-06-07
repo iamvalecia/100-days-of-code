@@ -1,6 +1,23 @@
 # 100 Days Of Code - Log
 
 
+### Day 55: June 5, 2019 Wednedday
+
+**Today's Progress**: This update is a day late, again.
+
+Sometimes you just have to be comfortable in your code.
+
+I was working on some code in one file. It was my todo list, seeing what worked and how it worked. So I decide to copy and paste everything into a new file. I deleted everything that I didn't need in the new file. I did this because I wanted to preserve all the things I was playing around with in the old file.
+
+So in the file I realize a couple variables in my code would need to be global variables. So I make them such, but now the function(s) won't work. I try and try and waste time. I then go back into the old file, make the same changes, and it works! What gives? So I think I had to `save as` the old file along with the css and html for it to work. But even then it gave me a red squiggly line on a line of code in the new, no squiggly line in the old. But when I took a break, shut the computer down, and returned there was no line. However, I now had "errors" in my CSS. They are no longer there now(Thursday). 
+
+I just wanted to document the above.
+
+This doesn't help me clear local storage on name.js either. `window.localStorage.setItem('name', '');`  On the todo list I don't need this, so I'm considering changing my name.js code to be like the todo list.
+
+**Thoughts** Be confident.
+
+
 ### Day 54: June 4, 2019 Tuesday
 
 **Today's Progress**: I am making this log entry a day late.
