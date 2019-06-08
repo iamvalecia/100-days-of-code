@@ -1,6 +1,14 @@
 # 100 Days Of Code - Log
 
 
+### Day 57: June 7, 2019 Friday
+
+**Today's Progress**: I played around with my name.js code. It's still not working. I'm using similar code on my site and it's working on everything except Microsoft Edge; all I need was change some things as it still functions the same. I am baffled. Was there some kind of update? I reached out for help. 
+
+I also read about HTML from Mozilla.
+
+**Thoughts** I feel like that programmer meme.
+
 ### Day 56: June 6, 2019 Thursday
 
 **Today's Progress**: I'm convinced my programs don't like me. Nothing's working except the todo list.
