@@ -1,6 +1,12 @@
 # 100 Days Of Code - Log
 
 
+### Day 59: June 10, 2019 Monday
+
+**Today's Progress**: I did some reading and practice on HTML. Nothing's wrong with name.js as I mostly thought. It worked fine for me today and my tester(s). Strange. Got a little CSS tip from slack.
+
+**Thoughts** Not very productive.
+
 ### Day 58: June 8, 2019 Saturday
 
 **Today's Progress**: I did some reading and practice on HTML and JS.
