@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log
 
 
+### Day 60: June 11, 2019 Tuesday
+
+**Today's Progress**: Yesterday I just read about binding from Eloquent JavaScript, the book. It didn't amount to an hour.
+
+Today I worked on my todoList app. I made a new branch for its repository. It felt like the right thing to since I'm totally revamping the code, but I'm not quite sure. Especially now since git put the old files in the new branch. I've already read about drag and ondblclick. So I will incorporate that later. 
+
+**Thoughts** Today was good. 60% done with this challenge!
+
+**Link(s) to work**
+1. [changed CSS and JS for edit and delete buttonss](https://github.com/iamvalecia/todo-list/commit/6c04620d8518b9454fdbad4759923a7ca4686aac)(latest commit)
+
 ### Day 59: June 10, 2019 Monday
 
 **Today's Progress**: I did some reading and practice on HTML. Nothing's wrong with name.js as I mostly thought. It worked fine for me today and my tester(s). Strange. Got a little CSS tip from slack.
