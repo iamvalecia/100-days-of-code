@@ -1,7 +1,24 @@
 # 100 Days Of Code - Log
 
 
-### Day 60: June 11, 2019 Tuesday
+### Day 61: June 13, 2019 Thursday
+
+**Today's Progress**: I'm almost done with my todo app. It functions exactly like the first one. You can add, change, and delete todos. It's just more user friendly in my opinion. 
+
+I would love to add drag to the list items but I find it too complicated at the moment. I saw some code on codepen for <li> and it was 75 lines long! Yeah, I could copy the code into my app, but I would like to have a better grasp of it. And having a good grasp of 75 lines in one day isn't happening. It didn't happen.
+  
+Today I found a function via a website, via a contribution on stackoverflow, that allows you to put html entities/utf-8 characters into your document via JS. It's only four lines and I can explain it. Perhaps not the best explanation, but I can. I don't feel guilty for copying it, unlike how I would have felt if I copied the drag and drop code. By the way I want drag and drop to allow users to reorder their todos.
+
+The only JS I have left in the near future is to add keyboard controls. And I already know how to do that!
+
+Then the only thing to do is aesthetics. Even when I do that I have a ways to go in my CSS skills to make it look good on different size screens and windows.Even now when HTML elements change because of JavaScript things might move to the next line. I don't know when I'll be able to fix things like that.
+
+**Thoughts** I sure used via a lot here. Just realized my first and last sentences of my progress contradict each other. Let me clarify. This will continue to be a work in progress as I learn more stuff. But I am approaching a checkpoint. Once I cross it this won't be a daily project, because I will be learning more stuff. Also at this approaching point I wouldn't mind showing it off to certain people.
+
+**Link(s) to work**
+1. [added ondblclick](https://github.com/iamvalecia/todo-list/commit/cef480741e594af0d9c5c497d15bd7d9eeaa37a2)(latest commit)
+
+### Day 60: June 12, 2019 Wednesday
 
 **Today's Progress**: Yesterday I just read about binding from Eloquent JavaScript, the book. It didn't amount to an hour.
 
