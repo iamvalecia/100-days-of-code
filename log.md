@@ -1,11 +1,24 @@
 # 100 Days Of Code - Log
 
 
+### Day 62: June 14, 2019 Friday
+
+**Today's Progress**: I realized that I do not have all the features of the original todo app. This new one can not toggle all. That's okay. `document.getElementsByTagName` and anything other than `document.getElementById` aren't working like I think they should, thus I can't make a solution. That's okay, too, I suppose. Since I have just now realized it, it must not be something that's needed. Besides I feel good when I check things off my todo list. And toggle all ruins that. 
+
+Made two more commits today.
+
+The above code didn't work on any other functions I tried them with either.
+
+**Thoughts** Hoping to do some studying tomorrow...Before that I just need to add a minimum word count to this.
+
+**Link(s) to work**
+1. [added function editCompleteKeyDown(e)](https://github.com/iamvalecia/todo-list/commit/19da3b8f6c88a714b9a897b2d87c37e518a6923a)(latest commit)
+
 ### Day 61: June 13, 2019 Thursday
 
 **Today's Progress**: I'm almost done with my todo app. It functions exactly like the first one. You can add, change, and delete todos. It's just more user friendly in my opinion. 
 
-I would love to add drag to the list items but I find it too complicated at the moment. I saw some code on codepen for <li> and it was 75 lines long! Yeah, I could copy the code into my app, but I would like to have a better grasp of it. And having a good grasp of 75 lines in one day isn't happening. It didn't happen.
+I would love to add drag to the list items but I find it too complicated at the moment. I saw some code on codepen for `<li>` and it was 75 lines long! Yeah, I could copy the code into my app, but I would like to have a better grasp of it. And having a good grasp of 75 lines in one day isn't happening. It didn't happen.
   
 Today I found a function via a website, via a contribution on stackoverflow, that allows you to put html entities/utf-8 characters into your document via JS. It's only four lines and I can explain it. Perhaps not the best explanation, but I can. I don't feel guilty for copying it, unlike how I would have felt if I copied the drag and drop code. By the way I want drag and drop to allow users to reorder their todos.
 
@@ -17,6 +30,8 @@ Then the only thing to do is aesthetics. Even when I do that I have a ways to go
 
 **Link(s) to work**
 1. [added ondblclick](https://github.com/iamvalecia/todo-list/commit/cef480741e594af0d9c5c497d15bd7d9eeaa37a2)(latest commit)
+2. [Decoding HTML entities with vanilla JavaScript ](https://gomakethings.com/decoding-html-entities-with-vanilla-javascript/)(resource)
+3. [Drag & Drop List Items](https://codepen.io/retrofuturistic/pen/tlbHE)(resource)
 
 ### Day 60: June 12, 2019 Wednesday
 
