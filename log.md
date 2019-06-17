@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log
 
 
+### Day 63: June 16, 2019 Sunday
+
+**Today's Progress**: So I didn't do any "formal" studying today or yesterday. I tried to do some more validation. I put `.includes()` in my code for name.js. I'm thinking name.js is really my pilot app for the todo list and my website. I use it to test things. 
+
+I also wrote my first JS for loop since the the todo list tutorial. It includes `.includes()` This added code makes sure the user's name isn't all spaces. So they can have a name like "J" and still pass. If it's " J" JavaScript or the browsers ignore the spaces before the letter anyways. Even in the old code it would pass it but ignore it. The problem is it doesn't ignore all the spaces behind the visual characters(letters, numbers, punctuation). If you have "J   " it will render "J ". 
+
+I remember from class, at least in Python, you could bring in code for the alphabet called ascii or something like that.
+
+**Thoughts** I'm calling it quits today. Back tomorrow!
+
 ### Day 62: June 14, 2019 Friday
 
 **Today's Progress**: I realized that I do not have all the features of the original todo app. This new one can not toggle all. That's okay. `document.getElementsByTagName` and anything other than `document.getElementById` aren't working like I think they should, thus I can't make a solution. That's okay, too, I suppose. Since I have just now realized it, it must not be something that's needed. Besides I feel good when I check things off my todo list. And toggle all ruins that. 
