@@ -1,7 +1,13 @@
 # 100 Days Of Code - Log
 
 
-### Day 63: June 16, 2019 Sunday
+### Day 64: June 17, 2019 Monday
+
+**Today's Progress**: Just did some interactive reading of Eloquent JavaScript. I also picked ahead into the HTML course/lesson by Mozilla. They're going to go over forms and validation. Until I get to that I'm going to hold off on it for my app(s).
+
+**Thoughts** None.
+
+### Day 63: June 16, 2019 Sunday*
 
 **Today's Progress**: So I didn't do any "formal" studying today or yesterday. I tried to do some more validation. I put `.includes()` in my code for name.js. I'm thinking name.js is really my pilot app for the todo list and my website. I use it to test things. 
 
@@ -10,6 +16,9 @@ I also wrote my first JS for loop since the the todo list tutorial. It includes 
 I remember from class, at least in Python, you could bring in code for the alphabet called ascii or something like that.
 
 **Thoughts** I'm calling it quits today. Back tomorrow!
+
+**Link(s) to work**
+[validation preventing all spaces in input](https://github.com/iamvalecia/name.js/commit/8650c5cbf26a0196343b175e2193dee7ae073219)(changes in log entry. I committed it late.)
 
 ### Day 62: June 14, 2019 Friday
 
