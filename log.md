@@ -1,6 +1,14 @@
 # 100 Days Of Code - Log
 
 
+### Day 65: June 19, 2019 Wednesday*
+
+**Today's Progress**: This is a day late.
+
+I worked on for loops.
+
+**Thoughts** I like Python for loops better.
+
 ### Day 64: June 17, 2019 Monday
 
 **Today's Progress**: Just did some interactive reading of Eloquent JavaScript. I also picked ahead into the HTML course/lesson by Mozilla. They're going to go over forms and validation. Until I get to that I'm going to hold off on it for my app(s).
