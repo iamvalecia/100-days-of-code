@@ -1,6 +1,27 @@
 # 100 Days Of Code - Log
 
 
+### Day 66: June 21, 2019 Friday*
+
+**Today's Progress**: I took a look at JavaScript30.com. I didn't jive well with the lessons, so I went back to eloquentjavascript.com. I worked on the three problems in the Program Structure chapter. My code is different from their solutions. Both longer. I'm still working on the third.
+
+[Program Structure](https://eloquentjavascript.net/02_program_structure.html)
+
+This is my code so far.
+
+```
+for (let n = 8; n <= 8; n++) {
+  let output = " #";
+  
+  row = output.repeat(n/2);
+  for (let c = 1; c <= 8; c++) {
+    console.log(row);
+  }
+}
+```
+
+**Thoughts** I'm going to put my solutions on slack tomorrow. The book said that the FizzBuzz problem is common for interviews. I did solve so I want to know how employable I am.
+
 ### Day 65: June 19, 2019 Wednesday*
 
 **Today's Progress**: This is a day late.
