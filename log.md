@@ -1,6 +1,14 @@
 # 100 Days Of Code - Log
 
 
+### Day 67: June 22, 2019 Saturday
+
+**Today's Progress**: This is a day late.
+
+Started off with some JavaScript, ended with some HTML on Mozilla.
+
+**Thoughts** I need a new project, I think.
+
 ### Day 66: June 21, 2019 Friday*
 
 **Today's Progress**: I took a look at JavaScript30.com. I didn't jive well with the lessons, so I went back to eloquentjavascript.com. I worked on the three problems in the Program Structure chapter. My code is different from their solutions. Both longer. I'm still working on the third.
