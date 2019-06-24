@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log
 
 
+### Day 67: June 23, 2019 Sunday
+
+**Today's Progress**: Was reading about HTML links, and decided to work on the Projects page for my website. Then I linked straight to my todo list folder. When I'm using a local server the request doesn't go through. When I just open the file it does.
+
+I have experience with `get` and `post` requests but with Python. Not exactly sure how to do it with JavaScript.
+
+**Thoughts** At least for the next 33 days I believe that the Mozilla Learn Web Development is the track I need to be on. As I'm working on different projects I can go to w3schools and etc. Also since JavaScript is further down the line for the curriculum, I can go to Eloquent JavaScript when I need a structure JS fix. Also also I may venture to my Phaser book. 
+
+That's the plan. Stay the course with Mozilla mostly. It has everything I need.
+
 ### Day 67: June 22, 2019 Saturday
 
 **Today's Progress**: This is a day late.
