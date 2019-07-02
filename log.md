@@ -1,7 +1,15 @@
 # 100 Days Of Code - Log
 
 
-### Day 67: June 23, 2019 Sunday
+### Day 69: July 1, 2019 Monday
+
+**Today's Progress**: I was deliberately gone to pursue other hobbies. I am back.
+
+Today I practiced with HTML elements, advanced so they say.
+
+**Thoughts** These elements certainly aren't everyday. I found the blockquote and cite to be redundant. But it was nice to get back into the groove.
+
+### Day 68: June 23, 2019 Sunday
 
 **Today's Progress**: Was reading about HTML links, and decided to work on the Projects page for my website. Then I linked straight to my todo list folder. When I'm using a local server the request doesn't go through. When I just open the file it does.
 
