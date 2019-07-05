@@ -1,6 +1,14 @@
 # 100 Days Of Code - Log
 
 
+### Day 70: July 2, 2019 Tuesday
+
+**Today's Progress**: This is a late update.
+
+On day 70 I studied HTML and JavaScript from Mozilla. I skipped to JS and will be doing HTML and JS together.
+
+**Thoughts** It was so hard to focus on HTML only. I was learning and reading about things but not making things despite writing the code in my own editor. It was like teaching someone how to write an essay without actually assigning them an essay. All these elements just kept stacking with not way for me to really retain them. So I figure I learn some more JS, maybe build something, then add it to my website in progress. Then, perhaps, I will need some of those HTML tags.
+
 ### Day 69: July 1, 2019 Monday
 
 **Today's Progress**: I was deliberately gone to pursue other hobbies. I am back.
