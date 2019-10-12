@@ -1,5 +1,38 @@
 ### Day 2: October 9, 2019 Wednesday
 
+**Today's Progress**: I solved the last challenge question in Chapter 2 of Eloquent JS. It's the chessboard one. I couldn't solve it months ago. But coming back to it, I solved it rather quickly. Here's the solution: 
+
+```let gridNum = Number(prompt("give me a number."));
+for (let n = gridNum; n <= gridNum; n++) {
+  let output = "# ";
+  
+  row = output.repeat(n/2);
+  for (let c = 1; c <= gridNum; c++) {
+    if (c % 2 == 1) {
+      console.log(" " + row)
+    }else{
+    console.log(row);
+    }
+  }
+} 
+```
+
+Here's my old code:
+```for (let n = 8; n <= 8; n++) {
+  let output = " #";
+  
+  row = output.repeat(n/2);
+  for (let c = 1; c <= 8; c++) {
+    console.log(row);
+  }
+}
+```
+
+**Thoughts** During my last attempt at 100DoC, I tried then skipped the question. So it's nice getting it done this time.
+
+
+### Day 2: October 9, 2019 Wednesday
+
 **Today's Progress**: I worked in Chapter 2 of Eloquent JavaScript, 3rd Edition. The chapter, Program Structure, is about where I left off; I wanted some overlap.
 
 **Thoughts** None.
